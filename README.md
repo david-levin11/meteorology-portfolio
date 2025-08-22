@@ -16,7 +16,7 @@ This repository showcases **sanitized examples** of my work for clients, researc
 - **Tech stack:** Python, AWS S3, Pandas, Parquet, fsspec  
 - Developed a **parallelized Python pipeline** to archive **NDFD**, **HRRR**, **RRFS** and **NBM** forecasts.  
 - Uses partitioned Parquet files for efficient storage and query-ready datasets.  
-- **Demo:** [Link to script or notebook]  
+- **Demo:** [https://github.com/david-levin11/meteorology-portfolio/tree/main/alaska_verification_portfolio]  
 - **Highlights:**  
   - 70% faster processing  
   - Scalable and cloud-friendly design  

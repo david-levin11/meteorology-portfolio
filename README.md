@@ -24,12 +24,13 @@ This repository showcases **sanitized examples** of my work for clients, researc
 
 ---
 
-### **2. Forecast Verification Tool**
+### **2. Forecast Verification Notebooks**
 - **Tech stack:** Python, DuckDB, Pandas, Matplotlib, Seaborn  
-- Modular verification system to analyze model accuracy, generate **bias/confusion matrices**, and visualize category-based performance (e.g., Beaufort bins).  
+- Created a suite of **on-the-fly verification notebooks** in Google Colab that enable forecasters and researchers to **quickly evaluate numerical model performance** at a specific location or across a broader geographic area, **without requiring complex local setups or heavy computing resources**.  
 - **Demo:** [Link to notebook or repo directory]  
 - **Highlights:**  
-  - Flexible binning schemes  
+  - Rapid, location- or region-specific verification for operational decision support
+  - Highly flexible binning options, including various weather element categories or custom thresholds 
   - Clean, publication-ready visualizations  
   - Supports large datasets with low memory footprint
 

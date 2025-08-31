@@ -27,7 +27,8 @@ This repository showcases **sanitized examples** of my work for clients, researc
 ### **2. Forecast Verification Notebooks**
 - **Tech stack:** Python, DuckDB, Pandas, Matplotlib, Seaborn  
 - Created a suite of **on-the-fly verification notebooks** in Google Colab that enable forecasters and researchers to **quickly evaluate numerical model performance** at a specific location or across a broader geographic area, **without requiring complex local setups or heavy computing resources**.  
-- **Demo:** https://github.com/david-levin11/meteorology-portfolio/tree/main/forecast-verification-notebooks 
+- **Demo:** https://github.com/david-levin11/meteorology-portfolio/tree/main/forecast-verification-notebooks
+- **Sample Image:** ![Sample output from the Percentile-In-Context notebooks.](forecast-verification-notebooks/sample_images/sample_verification_image.png) 
 - **Highlights:**  
   - Rapid, location- or region-specific verification for operational decision support
   - Highly flexible binning options, including various weather element categories or custom thresholds 

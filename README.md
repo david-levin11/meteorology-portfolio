@@ -39,7 +39,7 @@ This repository showcases **sanitized examples** of my work for clients, researc
 ### **3. Geospatial Snowfall Mapping**
 - **Tech stack:** Arcpy, GeoPandas, Python
 - Designed **automated geospatial snowfall analysis** to visualize spatial extend of sparse observations using Empirical Bayesian Krieging Regression Analysis to smartly spread out snowfall observations based on climatology.  
-- **Demo:** [Screenshot or hosted link]  
+- **Demo:** !Sample output from a winter storm in the Anchorage, Alaska area. alaska-snowfall-analysis/sample_images/snowfall_sample.png  
 - **Highlights:**  
   - Used to verify National Weather Service warning products and for public dissemenation post major events.  
   - Modular design adaptable to multiple regions.
